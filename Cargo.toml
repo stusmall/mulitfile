@@ -1,0 +1,6 @@
+[package]
+name = "multifile"
+version = "0.1.0"
+authors = ["stusmall <stuart.alan.small@gmail.com>"]
+
+[dependencies]
